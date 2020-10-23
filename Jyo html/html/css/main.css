@@ -1,0 +1,21 @@
+.hello{
+	padding-top: 20px;
+    padding-left: 20px;
+    border-top-width: 20px;
+    font-size: 20;
+    font-stretch:10%;
+}
+#id1{
+	padding-top: 20px;
+    padding-left: 20px;
+    border-top-width: 20px;
+    font-stretch:20%;
+    font-family: calibri;
+    color: green;
+    border: 2px;
+
+}
+body{
+	padding-left: 5%;
+    padding-right: 3%;
+}
